@@ -1,0 +1,3 @@
+[submodule "submodules/WebDriverAgent"]
+	path = submodules/WebDriverAgent
+	url = git@github.com:facebook/WebDriverAgent.git
